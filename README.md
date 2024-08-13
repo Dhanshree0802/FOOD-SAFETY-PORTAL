@@ -61,15 +61,8 @@ During the software engineering lab, the following UML diagrams were developed t
 
 ---
 
-### 🧩 Technology Stack
-- **Tools Used**: StarUML, Microsoft Visio, Lucidchart
-- **Languages**: UML, Java (for implementation), SQL (for database management)
 
----
 
-### 🔗 Related Links
-- **[Project Repository](https://github.com/dhanshree/FoodSafetyPortal)**
-- **[Documentation](https://github.com/dhanshree/FoodSafetyPortal/docs)**
 
 
 ![image](https://github.com/user-attachments/assets/6cf2059d-aa2a-4bff-b42c-17070888a122)
